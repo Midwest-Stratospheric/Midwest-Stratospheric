@@ -18,7 +18,24 @@ Aerostratospheric designs, builds, and flies ultra-lightweight high-altitude pla
 We focus on aerospace-engineered platforms and stratospheric research. Payloads are built in the United States, flown under FAA Part 101 guidelines, and the resulting datasets are released openly and rapidly — typically within 48 hours of successful recovery.
 
 **Operations:** Casey, Illinois (Clark County)  
-**Headquarters mailing:** 1906 S Banker St #1002, Effingham, IL 62401
+**Corporate office:** 801 S West St, Suite 101, Olney, IL 62450
+
+---
+
+## Collaboration and data partnerships
+
+Aerostratospheric is looking for collaborators around open atmospheric data. If your lab, classroom, newsroom, or software project works with weather or near space data, we want to hear what a fit could look like.
+
+Where to start:
+
+1. **xDataHub**, our public open atmospheric data dashboard: https://www.midwestsds.com/msds-data-hub.html. It shows the live Casey, Illinois ground station (KILCASEY47), NASA GLOBE air temperatures from the same site, a radiation index, NOAA KILX soundings next to our own flights, and UOGW boards.
+2. **UOGW API**, the machine side of Unified Open Global Weather: https://www.midwestsds.com/data/v1/api.html plus the developer overview at https://midwestsds.com/contact/knowledgebase.php?article=93. The public tier needs no key. Attribution is required, and curated indexes are CC BY 4.0.
+3. **STEM and xPlorer**, our signed in learning dashboard with free 1 hour and 5 hour STEM certificates: https://www.midwestsds.com/stem.html and https://www.midwestsds.com/explorer.html
+4. **Prototypes** such as xAirship, a 6 m (20 ft) PVC aerostat on our xPrototypes bench: https://www.midwestsds.com/xprototypes.html
+
+Flown archive: on Sep 12, 2026 an x1Albatross envelope check reached 59,000 ft, and on Sep 19, 2026 the X2Griffon maiden flight burst at 90,356 ft. Details are on https://www.midwestsds.com/flights.html. Launches are private science missions; the archive and the data are public.
+
+We are looking for collaboration: data sharing, joint research, classroom use, or tooling. Email space@aerostratospheric.com or book a 15 minute intro at https://calendly.com/aerostratospheric/15min
 
 ---
 
@@ -33,7 +50,7 @@ We focus on aerospace-engineered platforms and stratospheric research. Payloads 
 
 Complementary systems include MAD-AP mid-altitude drift platforms and continuous ground observations that contribute to the **NASA GLOBE** program (registration **GO-4VW9B**).
 
-**Next public flight:** September 19, 2026 · Casey, Illinois
+**Flown:** Sep 19, 2026 X2Griffon maiden flight, burst at 90,356 ft · [flight archive](https://www.midwestsds.com/flights.html)
 
 → [X2Griffon repository](https://github.com/Midwest-Stratospheric/x2griffon)
 
@@ -108,7 +125,8 @@ Data is released for researchers, meteorologists, STEM educators, the amateur ra
 
 - **Primary website:** [Aerostratospheric.com](https://aerostratospheric.com)
 - **Data Hub:** [aerostratospheric.com](https://aerostratospheric.com) (portal)
-- **Email:** launchcontrol@midwestsds.com
+- **Email:** space@aerostratospheric.com
+- **Intro call (15 min):** https://calendly.com/aerostratospheric/15min
 - **About:** [About page](https://aerostratospheric.com/about.html)
 - **Research:** [Research & publications](https://aerostratospheric.com/research.html)
 
