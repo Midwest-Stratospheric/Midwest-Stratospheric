@@ -11,6 +11,12 @@ Illinois nonprofit corporation · Home of **Midwest Stratospheric Data Systems**
 
 ---
 
+## Operation Canis Major
+
+<img src="https://www.midwestsds.com/images/operation-canis-major-patch.png" alt="Operation Canis Major patch" width="120" align="right">
+
+This project is part of [Operation Canis Major](https://www.midwestsds.com/operation-canis-major.html), often called Project Canis: Aerostratospheric's mission objective to provide open stratospheric and atmospheric research and data, unrestricted, to the public. Learn more: https://www.midwestsds.com/operation-canis-major.html
+
 ## Mission
 
 Aerostratospheric designs, builds, and flies ultra-lightweight high-altitude platforms to collect and publicly release high-quality atmospheric data.
