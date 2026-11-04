@@ -7,7 +7,7 @@
 [![FAA Part 101](https://img.shields.io/badge/FAA-Part%20101%20Compliant-FF6B00?style=for-the-badge)](https://aerostratospheric.com)
 [![Open Data](https://img.shields.io/badge/Data-CC%20BY%204.0-lightgrey?style=for-the-badge)](https://creativecommons.org/licenses/by/4.0/)
 
-Illinois nonprofit corporation · Home of **Midwest Stratospheric Data Systems**
+Illinois nonprofit corporation · Home of **Aerostratospheric**
 
 ---
 
@@ -66,7 +66,7 @@ Complementary systems include MAD-AP mid-altitude drift platforms and continuous
 
 **One of the most comprehensive open multi-layer atmospheric commons available.**
 
-UOGW is Aerostratospheric’s versioned, machine-readable atmospheric data commons. It is curated under Midwest Stratospheric Data Systems, updated by independent daily GitHub Actions, and published for unrestricted research and educational reuse.
+UOGW is Aerostratospheric’s versioned, machine-readable atmospheric data commons. It is curated under Aerostratospheric, updated by independent daily GitHub Actions, and published for unrestricted research and educational reuse.
 
 **Current coverage:**
 - **25+ datasets** across **6 layers** — Surface · Marine · Upper-air · Stratosphere · Satellite · Flight
@@ -141,6 +141,6 @@ Data is released for researchers, meteorologists, STEM educators, the amateur ra
 *Open atmosphere. Open archives. Midwest-made flight data for everyone.*
 
 **Aerostratospheric** is an Illinois nonprofit corporation.  
-Midwest Stratospheric Data Systems operates as a limited partnership under Aerostratospheric.
+Aerostratospheric operates as a limited partnership under Aerostratospheric.
 
 © 2026 Aerostratospheric
